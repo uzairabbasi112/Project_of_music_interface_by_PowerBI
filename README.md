@@ -1,4 +1,4 @@
-# project_of_music_interface_by_PowerBI_
+# Datawarehouse_project_of_musical_dataset
 In this project there are multiple of pages created having alot of plots and graphs including(line graph, pie chart, bar plots) etc. 
 
 Musical data is used in to create plots. having 8 columns inlcuding (Album, Artist, Device,Genre, Location, Song, SongPlay, User).
