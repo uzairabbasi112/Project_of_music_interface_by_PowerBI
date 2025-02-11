@@ -28,3 +28,12 @@ The dataset is structured using the **Star Schema**, making it efficient for ana
   - Multiple pages with **rich graphical representations** of the dataset.  
 
 ---
+
+### Sample 1 
+![sample 1](images/a1.png)  
+
+### Sample 2  
+![sample 2](images/a2.png)  
+
+### Sample 3
+![sample 3](images/a3.png)
