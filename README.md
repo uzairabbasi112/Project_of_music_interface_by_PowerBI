@@ -1,8 +1,37 @@
-# Datawarehouse_project_of_musical_dataset
-In this project there are multiple of pages created having alot of plots and graphs including(line graph, pie chart, bar plots) etc. 
+# 🎵 Data Warehouse Project: Musical Dataset 🎵  
 
-Musical data is used in to create plots. having 8 columns inlcuding (Album, Artist, Device,Genre, Location, Song, SongPlay, User).
+This project presents a **data warehouse** implementation for a **musical dataset**, showcasing multiple **interactive plots and graphs** such as:  
+📈 **Line Graphs** | 📊 **Bar Charts** | 🥧 **Pie Charts**  
 
-Main Idea used is the COncept of Dataware house and the schema used is star Schema.
+The dataset is structured using the **Star Schema**, making it efficient for analytical queries.  
 
-The dataset is generate using an AI model (ChatGPT) so it is not too large but alot of visualization is added in this project.
+---
+
+## 📂 Project Overview  
+
+- **Dataset Details:**  
+  - Contains **8 columns**:  
+    - 🏆 **Album**  
+    - 🎤 **Artist**  
+    - 📱 **Device**  
+    - 🎼 **Genre**  
+    - 📍 **Location**  
+    - 🎵 **Song**  
+    - ▶️ **SongPlay**  
+    - 👤 **User**  
+  - **Dataset Size:** Small, self-created dataset.  
+
+- **Data Warehouse Concept:**  
+  - Implemented using **Star Schema** for optimized query performance.  
+
+- **Visualization Tools:**  
+  - Multiple pages with **rich graphical representations** of the dataset.  
+
+---
+
+## ⚙️ Installation and Setup  
+
+### 1️⃣ **Install Dependencies**  
+Ensure you have all the required libraries installed:  
+```sh
+pip install -r requirements.txt
