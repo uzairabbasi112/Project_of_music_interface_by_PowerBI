@@ -28,10 +28,3 @@ The dataset is structured using the **Star Schema**, making it efficient for ana
   - Multiple pages with **rich graphical representations** of the dataset.  
 
 ---
-
-## ⚙️ Installation and Setup  
-
-### 1️⃣ **Install Dependencies**  
-Ensure you have all the required libraries installed:  
-```sh
-pip install -r requirements.txt
